@@ -6,7 +6,7 @@
 
 | CLI (Node.js)     | Original (Bridge) | Original (C#)     |
 |-------------------|-------------------|-------------------|
-| [![Build1](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build2](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build3](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/3)](https://travis-ci.org/xxczaki/greekumipsum-cli)
+| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/3)](https://travis-ci.org/xxczaki/greekumipsum-cli)
 
 # What is Greekum Ipsum?
 Original description:
