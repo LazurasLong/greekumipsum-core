@@ -9,7 +9,7 @@
 
 [![NPM](https://nodei.co/npm/greekumipsum-cli.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/greekumipsum-cli/)
 
-<img src="https://cdn.rawgit.com/xxczaki/greekumipsum-cli/1828daba/animated.svg" alt="SVG">
+[![asciicast](https://asciinema.org/a/197970.png)](https://asciinema.org/a/197970)
 
 | CLI (Node.js)     | Original (Bridge) | Original (C#)     | Tests (C#)        |
 |-------------------|-------------------|-------------------|-------------------|
