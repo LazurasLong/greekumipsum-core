@@ -6,7 +6,7 @@
 
 | CLI (NodeJS)      | Original (C#)     |
 |-------------------|-------------------|
-| [![Build1][1]][5] | [![Build2][2]][5] |
+| [![Build1](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build2](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.org/xxczaki/greekumipsum-cli) |
 
 <img src="" alt="SVG">
 
@@ -46,7 +46,3 @@ All credit should go to him 😄
 ## License
 
 MIT
-
-[1]: https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1
-[2]: https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2
-[3]: https://travis-ci.org/xxczaki/greekumipsum-cli
