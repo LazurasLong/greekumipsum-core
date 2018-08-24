@@ -14,7 +14,8 @@ matrix:
       script:
         - docker create --tty --interactive --name bridgec bridgedotnet/bridge
         - docker start bridgec
-        - docker container exec bridgec bridge new && bridge build
+        - docker container exec bridgec bridge new
+        - docker container exec bridgec bridge build
       
     - language: csharp
       script:
