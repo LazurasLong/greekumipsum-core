@@ -1,0 +1,16 @@
+matrix:
+  include:
+    - language: node_js
+      sudo: trude
+      node_js:
+        - "7"
+      install:
+        - npm install
+      script:
+        - npm test
+
+    - language: csharp
+      script:
+        - docker create --t --i --name bridgec bridgedotnet/bridge
+        - docker start -a -i bridgec
+        - bridge build
