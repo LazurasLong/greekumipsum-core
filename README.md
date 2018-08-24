@@ -4,7 +4,7 @@
 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
-| CLI (NodeJS)      | Original (C#)     |
+| CLI (Node.js)      | Original (C#)     |
 |-------------------|-------------------|
 | [![Build1](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.com/xxczaki/greekumipsum-cli) | [![Build2](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.com/xxczaki/greekumipsum-cli) |
 
