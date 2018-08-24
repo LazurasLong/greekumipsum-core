@@ -18,5 +18,4 @@ matrix:
       
     - language: csharp
       script:
-        - cd original
-        - msbuild Greekum.sln
+        - msbuild original/Greekum.sln
