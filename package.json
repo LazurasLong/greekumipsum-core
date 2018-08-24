@@ -1,6 +1,6 @@
 {
   "name": "greekumipsum-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "preferGlobal": true,
   "description": "Generate random greek paragraphs, words, sentences and characters. Uses the Greekum Ipsum script by Krzysztof Szewczyk.",
   "homepage": "https://krzysztofszewczyk.github.io/MiscStuff/greekum/",
@@ -30,9 +30,11 @@
     "xo": "*"
   },
   "xo": {
-		"rules": {
-			"unicorn/no-abusive-eslint-disable": 0,
-			"new-cap": 0
-		}
-	}
+    "rules": {
+      "import/no-unassigned-import": 0,
+      "new-cap": 0
+    },
+    "globals": "GreekumIpsum",
+    "ignores": "functions.js"
+  }
 }
