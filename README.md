@@ -48,6 +48,12 @@ Examples
 This CLI app is just a simple wrapper around the original Greekum Ipsum script, made by my friend [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk). 
 All credit should go to him 😄
 
+## Maintainers
+
+[![Antoni Kepinski](https://github.com/xxczaki.png?size=100)](https://kepinski.me) | [![Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk.png?size=100)](https://github.com/KrzysztofSzewczyk)
+---|---
+[Antoni Kepinski](https://kepinski.me) | [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk)
+
 ## License
 
 MIT
