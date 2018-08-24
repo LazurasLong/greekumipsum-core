@@ -14,6 +14,8 @@ Original description:
 This CLI app is just a simple wrapper around the original Greekum Ipsum script, made by my friend [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk). 
 All credit should go to him 😄
 
+You can also use the [online generator](https://krzysztofszewczyk.github.io/MiscStuff/greekum/)!
+
 
 # Install
 ```bash
