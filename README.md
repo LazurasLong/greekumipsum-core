@@ -35,8 +35,10 @@ Examples
  $ greekum --paragraph 5
  $ greekum -c 3
 ```
+## Note
+This CLI app is just a simple wrapper around the original Greekum Ipsum script, made by my friend [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk). 
+All credit should go to him 😄
 
 ## License
 
-This CLI app is just a simple wrapper around the original Greekum Ipsum script, made by my friend [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk). 
-All credit should go to him 😄
+MIT
