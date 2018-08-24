@@ -5,6 +5,7 @@
 [![npm version](https://badge.fury.io/js/greekumipsum-cli.svg)](https://badge.fury.io/js/greekumipsum-cli) 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) 
 [![npm license](https://img.shields.io/npm/l/greekumipsum-cli.svg)](https://opensource.org/licenses/MIT)
+[![NPM](https://nodei.co/npm/greekumipsum-cli.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/greekumipsum-cli/)
 
 <img src="https://cdn.rawgit.com/xxczaki/greekumipsum-cli/1828daba/animated.svg" alt="SVG">
 
