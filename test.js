@@ -38,12 +38,12 @@ test('Test --paragraph output with number', async t => {
 
 test('Test --sentence output with number', async t => {
 	const {stdout} = await execa.shell('node ./cli.js --sentence 2');
-	t.true(stdout.length < 250);
+	t.true(stdout.length < 500);
 });
 
 test('Test --word output with number', async t => {
 	const {stdout} = await execa.shell('node ./cli.js --word 2');
-	t.true(stdout.length < 100);
+	t.true(stdout.length < 150);
 });
 
 test('Test --character output with number', async t => {
