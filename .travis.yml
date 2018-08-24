@@ -1,0 +1,18 @@
+matrix:
+  include:
+    - language: node_js
+      sudo: false
+      node_js:
+        - "4.1"
+        - "4.0"
+      install:
+        - npm install
+      script:
+        - npm test
+
+    - language: csharp
+      jdk: oraclejdk8
+      script:
+        - docker create --t --i --name bridgec bridgedotnet/bridge
+        - docker start -a -i bridgec
+        - bridge build
