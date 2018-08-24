@@ -4,9 +4,9 @@
 
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
 
-| CLI (Node.js)      | Original (C#)     |
-|-------------------|-------------------|
-| [![Build1](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.com/xxczaki/greekumipsum-cli) | [![Build2](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.com/xxczaki/greekumipsum-cli) |
+| CLI (Node.js)     | Original (Bridge) | Original (C#)     |
+|-------------------|-------------------|-------------------|
+| [![Build1](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.com/xxczaki/greekumipsum-cli) | [![Build2](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.com/xxczaki/greekumipsum-cli) | [![Build3](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/3)](https://travis-ci.com/xxczaki/greekumipsum-cli)
 
 # What is Greekum Ipsum?
 Original description:
