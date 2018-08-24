@@ -2,7 +2,7 @@
 
 > Generate random greek paragraphs, sentences & more.
 
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) [![npm version](https://badge.fury.io/js/greekumipsum-cli.svg)](https://badge.fury.io/js/greekumipsum-cli)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) [![npm version](https://badge.fury.io/js/greekumipsum-cli.svg)](https://badge.fury.io/js/greekumipsum-cli) ![NpmLicense](https://img.shields.io/npm/l/greekumipsum-cli.svg)
 
 | CLI (Node.js)     | Original (Bridge) | Original (C#)     |
 |-------------------|-------------------|-------------------|
