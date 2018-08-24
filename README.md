@@ -2,7 +2,7 @@
 
 > Generate random greek paragraphs, sentences & more.
 
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) 
+[![Build Status](https://travis-ci.com/xxczaki/greekumipsum-cli.svg?token=E9iyqFpytuuReyA3yz8W&branch=master)](https://travis-ci.com/xxczaki/greekumipsum-cli) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) 
 
 <img src="" alt="SVG">
 
