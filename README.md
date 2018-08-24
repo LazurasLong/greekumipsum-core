@@ -2,7 +2,11 @@
 
 > Generate random greek paragraphs, sentences & more.
 
-[![Build Status](https://travis-ci.com/xxczaki/greekumipsum-cli.svg?token=E9iyqFpytuuReyA3yz8W&branch=master)](https://travis-ci.com/xxczaki/greekumipsum-cli) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) 
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo)
+
+| CLI (NodeJS)      | Original (C#)     |
+|-------------------|-------------------|
+| [![Build1][1]][5] | [![Build2][2]][5] |
 
 <img src="" alt="SVG">
 
@@ -42,3 +46,7 @@ All credit should go to him 😄
 ## License
 
 MIT
+
+[1]: https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1
+[2]: https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2
+[3]: https://travis-ci.org/xxczaki/greekumipsum-cli
