@@ -2,7 +2,7 @@
 
 > Generate random greek paragraphs, sentences & more.
 
-[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) [![install size](https://packagephobia.now.sh/badge?p=fastic)](https://packagephobia.now.sh/result?p=fastic)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/xojs/xo) 
 
 <img src="" alt="SVG">
 
