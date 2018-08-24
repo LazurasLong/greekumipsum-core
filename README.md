@@ -11,16 +11,12 @@ Original description:
 
 > Greekum Ipsum is variation of Lorem Ipsum. It was made by [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk), serving same purpose as Lorem Ipsum, with another feature - creating generators of this, or even trying it out in applications or websites, can test system's capability to render unicode characters.
 
-This CLI app is just a simple wrapper around the original Greekum Ipsum script, made by my friend [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk). 
-All credit should go to him 😄
-
-You can also use the [online generator](https://krzysztofszewczyk.github.io/MiscStuff/greekum/)!
-
-
 # Install
 ```bash
 npm install --global greekumipsum-cli
 ```
+
+You can also use the [online generator](https://krzysztofszewczyk.github.io/MiscStuff/greekum/)!
 
 # Usage
 
@@ -42,4 +38,5 @@ Examples
 
 ## License
 
-MIT
+This CLI app is just a simple wrapper around the original Greekum Ipsum script, made by my friend [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk). 
+All credit should go to him 😄
