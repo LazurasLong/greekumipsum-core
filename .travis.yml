@@ -15,3 +15,8 @@ matrix:
         - docker create --tty --interactive --name bridgec bridgedotnet/bridge
         - docker start bridgec
         - docker container exec bridgec bridge build
+      
+    - language: csharp
+      script:
+        - cd original
+        - msbuild Greekum.sln
