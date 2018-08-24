@@ -8,8 +8,6 @@
 |-------------------|-------------------|
 | [![Build1](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.com/xxczaki/greekumipsum-cli) | [![Build2](https://private-travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.com/xxczaki/greekumipsum-cli) |
 
-<img src="https://github.com/xxczaki/greekumipsum-cli/blob/master/screenshot.svg" alt="SVG">
-
 # What is Greekum Ipsum?
 Original description:
 
