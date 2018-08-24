@@ -1,4 +1,4 @@
-# Greekum Ipsum 📝
+# Greekum Ipsum CLI 📝
 
 > Generate random greek paragraphs, sentences & more.
 
