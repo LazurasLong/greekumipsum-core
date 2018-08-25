@@ -20,3 +20,15 @@ matrix:
     - language: csharp
       script:
         - msbuild "./original/Grekum.sln"
+    
+    - language: node_js
+      sudo: true
+      node_js:
+        - "node"
+      install:
+        - npm install
+      script:
+        - npm test
+    - language: csharp
+      script:
+        - msbuild "./original/tests/Grekum.sln"
