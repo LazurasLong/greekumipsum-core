@@ -29,6 +29,3 @@ matrix:
         - npm install
       script:
         - npm test
-    - language: csharp
-      script:
-        - msbuild "./original/tests/Grekum.sln"
