@@ -35,9 +35,7 @@ if (isNaN(num)) {
 }
 // Generate greek paragraphs, words, sentences & characters
 if (arg === '-p' || arg === '--paragraph') {
-	for (let i = 0; i < num; i++) {
-		console.log(ins.NextParagraph());
-	}
+	process.stdout.write(`${ins.NextParagraph$1(num)} `);
 }
 
 if (arg === '-w' || arg === '--word') {
@@ -49,7 +47,5 @@ if (arg === '-s' || arg === '--sentence') {
 }
 
 if (arg === '-c' || arg === '--character') {
-	for (let i = 0; i < num; i++) {
-		process.stdout.write(String.fromCharCode(ins.NextCharacter()));
-	}
+	process.stdout.write(`${ins.NextCharacter$1(num)} `);
 }
