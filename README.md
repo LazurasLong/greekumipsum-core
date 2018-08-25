@@ -11,9 +11,9 @@
 
 [![asciicast](https://asciinema.org/a/197970.png)](https://asciinema.org/a/197970)
 
-| CLI (Node.js)     | Original (Bridge) | Original (C#)     | Tests (C#)        |
-|-------------------|-------------------|-------------------|-------------------|
-| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/3)](https://travis-ci.org/xxczaki/greekumipsum-cli) | ![Travis (.org) branch](https://img.shields.io/travis/xxczaki/greekumipsum-cli/tests.svg?label=Tests) |
+| CLI (Node.js)     | Original (Bridge) | Original (C#)     | Tests (Node.JS)   | Tests (C#)        |
+|-------------------|-------------------|-------------------|-------------------|-------------------|
+| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/3)](https://travis-ci.org/xxczaki/greekumipsum-cli) | ![Travis (.org) branch](https://img.shields.io/travis/xxczaki/greekumipsum-cli/tests.svg?label=tests) | ![Travis (.org) branch](https://img.shields.io/travis/xxczaki/greekumipsum-cli/tests.svg?label=tests) |
 
 # What is Greekum Ipsum?
 Original description:
