@@ -33,7 +33,7 @@ if (isNaN(num)) {
 // Generate greek paragraphs, words, sentences & characters
 if (arg === '-p' || arg === '--paragraph') {
 	for (let i = 0; i < num; i++) {
-		process.stdout.write(new GreekumIpsum().NextParagraph());
+		console.log(new GreekumIpsum().NextParagraph());
 	}
 }
 
