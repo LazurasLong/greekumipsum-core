@@ -67,7 +67,7 @@ C# things need to be made first.
  * [ ] Add more friendly API
  * [ ] [1]: Compile Greekum-Harvester to JavaScript and open-source it (it's tool to grab statistics from eg. text file).
  * [ ] Allow to emit markdown
- * [ ] Split runtime and code
+ * [X] Split runtime and code
 
 ### JavaScript TODO list:
  * [ ] Add configuration file support:
@@ -75,7 +75,7 @@ C# things need to be made first.
    * [ ] Save, load configuration
    * [ ] Add some more predefined configurations
    * [ ] Look [1]
-  * [ ] Optimize CLI (it's wasting some memory now)
+  * [X] Optimize CLI (it's wasting some memory now)
   * [ ] Add learning frontend
   * [ ] Add GreekumHarvester CLI frontend
   * [ ] Very basic markdown highlighting (?, unsure): `**, ****, # `
