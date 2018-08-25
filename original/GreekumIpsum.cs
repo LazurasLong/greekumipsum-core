@@ -13,7 +13,7 @@ class GreekumIpsum {
     private bool startingZero = false;
     private bool errored = false;
 
-    public char NextCharacter() {
+    public string NextCharacter() {
         try {
             double r = randomGenerator.NextDouble(), sum = 0;
             int idx = 0;
@@ -21,7 +21,7 @@ class GreekumIpsum {
                 if (r <= (sum = sum + probability.GetLetterProbability(alphabet)[idx++])) {
                     if (lastAlphabetLetter == n) return NextCharacter();
                     lastAlphabetLetter = n;
-                    return n;
+                    return n + "";
                 }
             }
             errored = true;
@@ -29,7 +29,7 @@ class GreekumIpsum {
             errored = true;
         }
         
-        return '?';
+        return "?";
     }
 
     public string NextWord() {
@@ -48,7 +48,7 @@ class GreekumIpsum {
             }
             
             for (int i = 0; i < length; i++) {
-                word += Char.ToLower(NextCharacter());
+                word += Char.ToLower(NextCharacter()[0]);
             }
             return word;
         } catch(Exception e) {
