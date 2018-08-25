@@ -64,8 +64,9 @@ C# things need to be made first.
  * [ ] Move GreekumIpsum classes to separate package, avoiding global namespace pollution
  * [ ] Add some form of config files
  * [ ] Add more friendly API
- * [ ] [1]: Compile Greekum-Harvester to JavaScript and open-source it (it's tool to grab statistics from eg. text file).
+ * [ ] [1]: Compile Greekum-Harvester to JavaScript and open-source it (it's tool to grab statistics from eg. text file)
  * [ ] Allow to emit markdown
+ * [ ] Integrate for loop
  * [X] Split runtime and code
 
 ### JavaScript TODO list:
