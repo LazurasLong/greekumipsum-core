@@ -79,6 +79,7 @@ C# things need to be made first.
   * [ ] Add learning frontend
   * [ ] Add GreekumHarvester CLI frontend
   * [ ] Very basic markdown highlighting (?, unsure): `**, ****, # `
+  * [ ] Add commandline option to uppercase sentence.
 
 ### General TODO list:
  * [X] Move this to README
