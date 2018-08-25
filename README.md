@@ -11,7 +11,7 @@
 
 [![asciicast](https://asciinema.org/a/197970.png)](https://asciinema.org/a/197970)
 
-| CLI (Node.js)     | Original (Bridge) | Original (C#)     | Tests (Node.JS)   |
+| CLI (Node.js)     | Original (Bridge) | Original (C#)     | Tests (Node.js)   |
 |-------------------|-------------------|-------------------|-------------------|
 | [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/3)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 4](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/4)](https://travis-ci.org/xxczaki/greekumipsum-cli) |
 
