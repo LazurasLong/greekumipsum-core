@@ -54,3 +54,32 @@ All credit should go to him 😄
 ---|---
 [Antoni Kepinski](https://kepinski.me) | [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk)
 
+## TODO lists
+
+C# things need to be made first.
+
+### C# TODO list:
+ * [ ] Allow application to start clean
+ * [ ] Move all properties to one class.
+ * [ ] Add Learn(char) and Learn(string) methods to GreekumIpsum
+ * [ ] Move GreekumIpsum classes to separate package, avoiding global namespace pollution
+ * [ ] Add some form of config files
+ * [ ] Add more friendly API
+ * [ ] [1]: Compile Greekum-Harvester to JavaScript and open-source it (it's tool to grab statistics from eg. text file).
+ * [ ] Allow to emit markdown
+ * [ ] Split runtime and code
+
+### JavaScript TODO list:
+ * [ ] Add configuration file support:
+   * [ ] Create configuration files starting clean or predefined
+   * [ ] Save, load configuration
+   * [ ] Add some more predefined configurations
+   * [ ] Look [1]
+  * [ ] Optimize CLI (it's wasting some memory now)
+  * [ ] Add learning frontend
+  * [ ] Add GreekumHarvester CLI frontend
+  * [ ] Very basic markdown highlighting (?, unsure): `**, ****, # `
+
+### General TODO list:
+ * [X] Move this to README
+ * [ ] Get rid of heavy Bridge runtime
