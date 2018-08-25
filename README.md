@@ -80,7 +80,7 @@ C# things need to be made first.
   * [ ] Add GreekumHarvester CLI frontend
   * [ ] Very basic markdown highlighting (?, unsure): `**, ****, # `
   * [ ] Add commandline option to uppercase sentence.
-  * [ ] If `num` is not passed, assume 1.
+  * [X] If `num` is not passed, assume 1.
 
 ### General TODO list:
  * [X] Move this to README
