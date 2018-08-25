@@ -42,6 +42,15 @@ class GreekumIpsum {
         }
         return word;
     }
+    
+    public string NextWord(int amount) {
+        string ret = "";
+        for(int i = 0; i < amount; i++) {
+            ret += NextWord();
+            ret += " ";
+        }
+        return ret;
+    }
 
     public string NextSentence(bool isStartOfWord) {
         string sentence = "";
@@ -70,14 +79,15 @@ class GreekumIpsum {
         return sentence;
     }
     
+    public string NextSentence(bool isStartOfWord, int amount) {
+        string ret = "";
+        for(int i = 0; i < amount; i++)
+            ret += NextSentence(isStartOfWord);
+        return ret;
+    }
+    
     public string NextParagraph() {
-        int length = randomGenerator.Next() % 15 + 12;
-        string s = "";
-        s += ("\t");
-        for (int idx = 0; idx < length; idx++) {
-            s += (NextSentence(true));
-        }
-        return s;
+        return "\t" + NextSentence(true, randomGenerator.Next() % 15 + 12);
     }
 
     public GreekumIpsum () {
