@@ -31,6 +31,13 @@ class GreekumIpsum {
         
         return "?";
     }
+    
+    public string NextCharacter(int amount) {
+        string ret = "";
+        for(int i = 0; i < amount; i++)
+            ret += NextCharacter();
+        return ret;
+    }
 
     public string NextWord() {
         try {
@@ -115,6 +122,13 @@ class GreekumIpsum {
         }
         
         return "???";
+    }
+    
+    public string NextParagraph(int amount) {
+        string ret = "";
+        for(int i = 0; i < amount; i++)
+            ret += NextParagraph() + "\n";
+        return ret;
     }
     
     public bool HasErrored() {
