@@ -45,12 +45,12 @@ if (arg === '-w' || arg === '--word') {
 
 if (arg === '-s' || arg === '--sentence') {
 	for (let i = 0; i < num; i++) {
-		process.stdout.write(`${new GreekumIpsum().NextSentence()}`);
+		process.stdout.write(new GreekumIpsum().NextSentence(true));
 	}
 }
 
 if (arg === '-c' || arg === '--character') {
 	for (let i = 0; i < num; i++) {
-		process.stdout.write(String.fromCharCode(`${new GreekumIpsum().NextCharacter()}`));
+		process.stdout.write(String.fromCharCode(new GreekumIpsum().NextCharacter()));
 	}
 }

@@ -13,17 +13,17 @@ test('Test --help output', async t => {
 
 test('Test --paragraph output', async t => {
 	const ret = await execa.shell('node ./cli.js --paragraph');
-	t.regex(ret.stdout, /α/);
+	t.regex(ret.stdout, /\t/);
 });
 
 test('Test --sentence output', async t => {
 	const {stdout} = await execa.shell('node ./cli.js --sentence');
-	t.true(stdout.length < 300);
+	t.true(stdout.length > 0);
 });
 
 test('Test --word output', async t => {
 	const {stdout} = await execa.shell('node ./cli.js --word');
-	t.true(stdout.length < 75);
+	t.true(stdout.length < 25);
 });
 
 test('Test --character output', async t => {
@@ -33,17 +33,17 @@ test('Test --character output', async t => {
 
 test('Test --paragraph output with number', async t => {
 	const ret = await execa.shell('node ./cli.js --paragraph 2');
-	t.regex(ret.stdout, /α/);
+	t.regex(ret.stdout, /\t/);
 });
 
 test('Test --sentence output with number', async t => {
 	const {stdout} = await execa.shell('node ./cli.js --sentence 2');
-	t.true(stdout.length < 500);
+	t.true(stdout.length > 0);
 });
 
 test('Test --word output with number', async t => {
 	const {stdout} = await execa.shell('node ./cli.js --word 2');
-	t.true(stdout.length < 150);
+	t.true(stdout.length < 50);
 });
 
 test('Test --character output with number', async t => {
@@ -57,7 +57,7 @@ test('Test not a number output', async t => {
 	t.regex(ret.stdout, /is not a number!/);
 });
 
-test('Test --word output with the number 500', async t => {
-	const {stdout} = await execa.shell('node ./cli.js --word 500');
+test('Test --sentence output with the number 100', async t => {
+	const {stdout} = await execa.shell('node ./cli.js --sentence 100');
 	t.true(stdout.length > 0);
 });
