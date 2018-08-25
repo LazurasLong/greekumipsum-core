@@ -60,7 +60,6 @@ C# things need to be made first.
 
 ### C# TODO list:
  * [X] Allow application to start clean
- * [ ] Move all properties to one class.
  * [ ] Add Learn(char) and Learn(string) methods to GreekumIpsum
  * [ ] Move GreekumIpsum classes to separate package, avoiding global namespace pollution
  * [ ] Add some form of config files
