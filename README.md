@@ -13,7 +13,7 @@
 
 | CLI (Node.js)     | Original (Bridge) | Original (C#)     | Tests (Node.js)   |
 |-------------------|-------------------|-------------------|-------------------|
-| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/1)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/2)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/3)](https://travis-ci.org/xxczaki/greekumipsum-cli) | [![Build 4](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum-cli/branches/master/4)](https://travis-ci.org/xxczaki/greekumipsum-cli) |
+| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum/branches/master/1)](https://travis-ci.org/xxczaki/greekumipsum) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum/branches/master/2)](https://travis-ci.org/xxczaki/greekumipsum) | [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum/branches/master/3)](https://travis-ci.org/xxczaki/greekumipsum) | [![Build 4](https://travis-matrix-badges.herokuapp.com/repos/xxczaki/greekumipsum/branches/master/4)](https://travis-ci.org/xxczaki/greekumipsum) |
 
 # What is Greekum Ipsum?
 Original description:
