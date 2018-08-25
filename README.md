@@ -66,7 +66,7 @@ C# things need to be made first.
  * [ ] Add more friendly API
  * [ ] [1]: Compile Greekum-Harvester to JavaScript and open-source it (it's tool to grab statistics from eg. text file)
  * [ ] Allow to emit markdown
- * [ ] Integrate for loop
+ * [X] Integrate for loop
  * [X] Split runtime and code
 
 ### JavaScript TODO list:
