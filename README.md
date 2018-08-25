@@ -54,6 +54,3 @@ All credit should go to him 😄
 ---|---
 [Antoni Kepinski](https://kepinski.me) | [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk)
 
-## License
-
-MIT
