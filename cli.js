@@ -1,8 +1,12 @@
 #!/usr/bin/env node
 
+require('./bin/runtime.js');
+require('./bin/functions.js');
+
 const arg = process.argv[2] || '-h';
 const num = process.argv[3] || 1;
-require('./functions.js');
+
+const ins = new GreekumIpsum();
 
 // Help message
 if (arg === '-h' || arg === '--help') {
@@ -29,28 +33,23 @@ if (isNaN(num)) {
 	console.log(num, 'is not a number!');
 	process.exit(1);
 }
-
 // Generate greek paragraphs, words, sentences & characters
 if (arg === '-p' || arg === '--paragraph') {
 	for (let i = 0; i < num; i++) {
-		console.log(new GreekumIpsum().NextParagraph());
+		console.log(ins.NextParagraph());
 	}
 }
 
 if (arg === '-w' || arg === '--word') {
-	for (let i = 0; i < num; i++) {
-		process.stdout.write(`${new GreekumIpsum().NextWord()} `);
-	}
+	process.stdout.write(`${ins.NextWord$1(num)} `);
 }
 
 if (arg === '-s' || arg === '--sentence') {
-	for (let i = 0; i < num; i++) {
-		process.stdout.write(new GreekumIpsum().NextSentence(true));
-	}
+	process.stdout.write(ins.NextSentence$1(true, num));
 }
 
 if (arg === '-c' || arg === '--character') {
 	for (let i = 0; i < num; i++) {
-		process.stdout.write(String.fromCharCode(new GreekumIpsum().NextCharacter()));
+		process.stdout.write(String.fromCharCode(ins.NextCharacter()));
 	}
 }
