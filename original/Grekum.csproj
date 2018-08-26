@@ -44,6 +44,8 @@
   <ItemGroup>
     <Compile Include="GreekAlphabet.cs" />
     <Compile Include="GreekProbability.cs" />
+    <Compile Include="CleanGreekAlphabet.cs" />
+    <Compile Include="CleanGreekWordPropertyProvider.cs">
     <Compile Include="GreekumIpsum.cs" />
     <Compile Include="GreekWordPropertyProvider.cs" />
     <Compile Include="IAlphabet.cs" />
