@@ -10,4 +10,4 @@ matrix:
       
     - language: csharp
       script:
-        - msbuild "./original/Grekum.sln"
+        - msbuild "./Grekum.sln"
