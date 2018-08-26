@@ -31,19 +31,6 @@ C# things need to be made first.
  * [X] Integrate for loop
  * [X] Split runtime and code
 
-### JavaScript TODO list:
- * [ ] Add configuration file support:
-   * [ ] Create configuration files starting clean or predefined
-   * [ ] Save, load configuration
-   * [ ] Add some more predefined configurations
-   * [ ] Look [1]
-  * [X] Optimize CLI (it's wasting some memory now)
-  * [ ] Add learning frontend
-  * [ ] Add GreekumHarvester CLI frontend
-  * [ ] Very basic markdown highlighting (?, unsure): `**, ****, # `
-  * [ ] Add commandline option to uppercase sentence.
-  * [X] If `num` is not passed, assume 1.
-
 ### General TODO list:
  * [X] Move this to README
  * [ ] Get rid of heavy Bridge runtime
