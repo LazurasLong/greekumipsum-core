@@ -4,10 +4,9 @@
 
 * [greekumipsum-core](https://github.com/Greekum/greekumipsum-core)
 * [greekumipsum-cli](https://github.com/Greekum/greekumipsum-cli)
-
-| CLI (Node.js)     | Original (Bridge) | Original (C#)     |
-|-------------------|-------------------|-------------------|
-| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/Greekum/greekumipsum-cli/branches/master/1)](https://travis-ci.org/Greekum/greekumipsum-cli) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/Greekum/greekumipsum-core/branches/master/2)](https://travis-ci.org/Greekum/greekumipsum-core) | [![Build 3](https://travis-matrix-badges.herokuapp.com/repos/Greekum/greekumipsum-core/branches/master/3)](https://travis-ci.org/Greekum/greekumipsum-core) |
+| Original (Bridge) | Original (C#)     |
+|-------------------|-------------------|
+| [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/Greekum/greekumipsum-cli/branches/master/1)](https://travis-ci.org/Greekum/greekumipsum-cli) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/Greekum/greekumipsum-core/branches/master/2)](https://travis-ci.org/Greekum/greekumipsum-core) |
 ---
 
 # What is Greekum Ipsum?
