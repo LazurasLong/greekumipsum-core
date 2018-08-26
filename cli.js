@@ -12,9 +12,9 @@ const ins = new GreekumIpsum();
 if (arg === '-h' || arg === '--help') {
 	console.log(`
 Usage
- $ greekum <option> <number>
+ $ greekum <type> [number]
 
-Options
+Type
  -p --paragraph  Generate paragraph
  -w --word       Generate word
  -s --sentence   Generate sentence
@@ -24,6 +24,10 @@ Options
 Examples
  $ greekum --paragraph 5
  $ greekum -c 3
+ $ greekum -p
+
+<> - required parameter
+[] - optional parameter
  `);
 	process.exit(0);
 }
