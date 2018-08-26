@@ -1,4 +1,4 @@
-# Greekum Ipsum 📝
+# Greekum Ipsum Core 📝
 
 > Generate random greek paragraphs, sentences & more.
 
