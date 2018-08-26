@@ -39,7 +39,7 @@
     "globals": {
       "GreekumIpsum",
       "Greekum"
-    }
+    },
     "ignores": "bin/*.js"
   }
 }
