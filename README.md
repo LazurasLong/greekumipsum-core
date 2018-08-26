@@ -1,4 +1,6 @@
-# Greekum Ipsum Core 📝 [![License](https://img.shields.io/npm/l/greekumipsum-cli.svg)](https://opensource.org/licenses/MIT)
+# Greekum Ipsum Core 📝
+
+[![License](https://img.shields.io/npm/l/greekumipsum-cli.svg)](https://opensource.org/licenses/MIT)
 
 > Core of Greekum Ipsum
 
@@ -15,11 +17,6 @@ Original description:
 
 > Greekum Ipsum is variation of Lorem Ipsum. It was made by [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk), serving same purpose as Lorem Ipsum, with another feature - creating generators of this, or even trying it out in applications or websites, can test system's capability to render unicode characters.
 
-
-## TODO lists
-
-C# things need to be made first.
-
 ### C# TODO list:
  * [X] Allow application to start clean
  * [ ] Add Learn(char) and Learn(string) methods to GreekumIpsum
@@ -30,10 +27,6 @@ C# things need to be made first.
  * [ ] Allow to emit markdown
  * [X] Integrate for loop
  * [X] Split runtime and code
-
-### General TODO list:
- * [X] Move this to README
- * [ ] Get rid of heavy Bridge runtime
  
  ## Maintainers
 
