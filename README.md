@@ -1,6 +1,6 @@
 # Greekum Ipsum Core 📝 [![License](https://img.shields.io/npm/l/greekumipsum-cli.svg)](https://opensource.org/licenses/MIT)
 
-> Generate random greek paragraphs, sentences & more.
+> Core of Greekum Ipsum
 
 | CLI (Node.js)     | Original (Bridge) | Original (C#)     |
 |-------------------|-------------------|-------------------|
