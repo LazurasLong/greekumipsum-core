@@ -61,8 +61,8 @@ C# things need to be made first.
 ### C# TODO list:
  * [X] Allow application to start clean
  * [ ] Add Learn(char) and Learn(string) methods to GreekumIpsum
- * [ ] Move GreekumIpsum classes to separate package, avoiding global namespace pollution
- * [ ] Add some form of config files
+ * [X] Move GreekumIpsum classes to separate package, avoiding global namespace pollution
+ * [X] Add some form of config files <-- It's JavaScript's problem
  * [ ] Add more friendly API
  * [ ] [1]: Compile Greekum-Harvester to JavaScript and open-source it (it's tool to grab statistics from eg. text file)
  * [ ] Allow to emit markdown
