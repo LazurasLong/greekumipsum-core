@@ -36,7 +36,10 @@
       "import/no-unassigned-import": 0,
       "new-cap": 0
     },
-    "globals": "GreekumIpsum",
+    "globals": {
+      "GreekumIpsum",
+      "Greekum"
+    }
     "ignores": "bin/*.js"
   }
 }
