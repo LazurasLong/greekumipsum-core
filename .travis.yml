@@ -1,15 +1,6 @@
 matrix:
   fast_finish: true
   include:
-    - language: node_js
-      sudo: true
-      node_js:
-        - "node"
-      install:
-        - npm install
-      script:
-        - npm test
-
     - language: csharp
       script:
         - docker create --tty --interactive --name bridgec bridgedotnet/bridge
@@ -20,12 +11,3 @@ matrix:
     - language: csharp
       script:
         - msbuild "./original/Grekum.sln"
-    
-    - language: node_js
-      sudo: true
-      node_js:
-        - "node"
-      install:
-        - npm install
-      script:
-        - npm test
