@@ -6,7 +6,7 @@ require('./bin/functions.js');
 const arg = process.argv[2] || '-h';
 const num = process.argv[3] || 1;
 
-const ins = new GreekumIpsum();
+const ins = new Greekum.GreekumIpsum();
 
 // Help message
 if (arg === '-h' || arg === '--help') {
