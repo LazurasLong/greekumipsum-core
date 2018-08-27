@@ -7,12 +7,14 @@
 * [greekumipsum-core](https://github.com/Greekum/greekumipsum-core)
 * [greekumipsum-cli](https://github.com/Greekum/greekumipsum-cli)
 
+## Builds
+
 | Original (Bridge) | Original (C#)     |
 |-------------------|-------------------|
 | [![Build 1](https://travis-matrix-badges.herokuapp.com/repos/Greekum/greekumipsum-core/branches/master/1)](https://travis-ci.org/Greekum/greekumipsum-core) | [![Build 2](https://travis-matrix-badges.herokuapp.com/repos/Greekum/greekumipsum-core/branches/master/2)](https://travis-ci.org/Greekum/greekumipsum-core) |
 ---
 
-# What is Greekum Ipsum?
+## What is Greekum Ipsum?
 Original description:
 
 > Greekum Ipsum is variation of Lorem Ipsum. It was made by [Krzysztof Szewczyk](https://github.com/KrzysztofSzewczyk), serving same purpose as Lorem Ipsum, with another feature - creating generators of this, or even trying it out in applications or websites, can test system's capability to render unicode characters.
