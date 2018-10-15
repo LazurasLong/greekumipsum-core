@@ -5,7 +5,7 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{843F74D3-0C48-4F2C-97B1-7DC94C657C9E}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <OutputType>Library</OutputType>
     <RootNamespace>Grekum</RootNamespace>
     <AssemblyName>Grekum</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
